@@ -1,4 +1,6 @@
 # Awesome Advanced Persistent Threat Scientific Research [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&as_ylo=2020&as_vis=1&q=allintitle%3A+%22detection%22+%22apt%22&btnG=)
+
 <p align="center">
     <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
     &nbsp;
