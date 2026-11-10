@@ -97,6 +97,9 @@ timeline
 - [Contributing](#contributing)
 - [Contributors](#contributors)
 
+> [!NOTE]
+> [BibTeX citation: Click here.](./apt.bib)
+
 ### 2026
 -
 -
